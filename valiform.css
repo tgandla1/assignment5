@@ -1,0 +1,22 @@
+
+body{
+background-color: #00FFFF;
+}
+.alert
+{
+       color:red;
+       text-decoration:underline;
+} 
+a:link{
+color:brown;
+}
+a:visited{
+color:blue;
+}
+a:hover{
+color:green;
+}
+a:active{
+
+background-color:yellow;
+}
